@@ -1,9 +1,5 @@
 # Домашнее задание №2 к лекции «Компоненты»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/8pm0bv0v2on98e49?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ra-hw-1-2-class-component)
-
-[Ссылка на Github Pages](https://yuriyvyatkin.github.io/ra-hw-1.2-class-component/)
-
 Страница интернет-магазина
 ===
 
